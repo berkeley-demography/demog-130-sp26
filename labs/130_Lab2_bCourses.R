@@ -1,6 +1,6 @@
 
 ## Only need to run installation code once
-install.packages("HMDHFDplus")
+install.packages("HMDHFDplus", repos = "https://cloud.r-project.org")
 install.packages("tidyverse")
 install.packages("data.table")
 install.packages("dplyr")
